@@ -43,7 +43,13 @@ Resources are taken from the udemy course: **R Shiny Interactive Web Apps - Next
 
 **[More advanced shiny examples](https://www.rstudio.com/products/shiny/shiny-user-showcase/)**
 
-**Refer to the Practise codes below:**
+**Refer to the Practise codes as mentioned below:**
 - Basic Shiny Program.r
 - Advanced Shiny Program.r
 - Shiny Project Script.r
+
+
+**Dashboard**
+We have some existing templates which can be used to create dashboards easily. Most commonly used template are
+- [FlexDashboard](https://rmarkdown.rstudio.com/flexdashboard/)
+- [ShinyDashboard](https://rstudio.github.io/shinydashboard/)
